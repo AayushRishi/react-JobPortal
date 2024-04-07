@@ -13,7 +13,7 @@ const Homecards = () => {
             <div className='p-4'>
           <h2 className="text-2xl font-bold">For Developers</h2>
             <p className="mt-2 mb-4">
-              Browse our Dev jobs and start your career today
+              Browse our Dev jobs and start your career
             </p>
             <Link
               to="/jobs"
